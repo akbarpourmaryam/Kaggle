@@ -4,5 +4,5 @@ This repository contains my solutions and submissions for various Kaggle machine
 
 ## Competitions
 
-- [Competition 1](https://www.kaggle.com/competitions/playground-series-s4e6)
+- [Competition 1: Classification with an Academic Success Dataset](https://www.kaggle.com/competitions/playground-series-s4e6)
 
